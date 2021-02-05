@@ -4,6 +4,14 @@
 
 同步于发布于B站  https://www.bilibili.com/read/cv9315056
 
+
+若有其他问题请加Q群：1125705781，备注小明或者B站
+
+也欢迎关注B站：小明和他的女朋友
+
+https://space.bilibili.com/591453294?spm_id_from=333.788.b_765f7570696e666f.2
+
+
 下载此附件中Resources文件夹替换EFI/OC/同名文件夹；
 
 下载此附件OpenCanopy.efi 替换EFI/OC/Drivers/下同名文件，并确认并在config.plist加载该驱动；
