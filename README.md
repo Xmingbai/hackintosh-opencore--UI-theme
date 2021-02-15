@@ -16,7 +16,7 @@ https://space.bilibili.com/591453294?spm_id_from=333.788.b_765f7570696e666f.2
 
 下载此附件OpenCanopy.efi 替换EFI/OC/Drivers/下同名文件，并确认并在config.plist加载该驱动；
 
-EFI/OC/Drivers/中必须存在CrScreenshotDxe.efi 并在config.plist加载该驱动；
+EFI/OC/Drivers/中必须存在CrScreenshotDxe.efi（截图快捷键驱动） 并在config.plist加载该驱动；
 
 ![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/iShot2021-01-17.png)
 
