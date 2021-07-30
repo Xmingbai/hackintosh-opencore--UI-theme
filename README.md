@@ -1,4 +1,4 @@
-# hackintosh-opencore--UI-theme
+# hackintosh-opencore--UI-theme   OC 主题包
 
 # Ver071 使用于OC070以上，包含五种主题文件
 
