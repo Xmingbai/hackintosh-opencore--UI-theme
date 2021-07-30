@@ -1,12 +1,14 @@
 # hackintosh-opencore--UI-theme
 
-Ver071 使用于OC070以上，包含五种主题文件
+# Ver071 使用于OC070以上，包含五种主题文件
 
-ver0.7.0 适用于OC0.7.0正式版
+
+# ver0.7.0 适用于OC0.7.0正式版
 同样支持背景更换 ，操作方式将对应改名为Background.icns
 
 
-操作指南： 仅适用于OC0.6.5 正式版及以上版本 
+
+# ver065-067 操作指南： 仅适用于OC0.6.5 正式版及以上版本 
 
 同步于发布于B站  https://www.bilibili.com/read/cv9315056
 
